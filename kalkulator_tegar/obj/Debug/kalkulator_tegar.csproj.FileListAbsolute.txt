@@ -1,0 +1,10 @@
+E:\2\pelajaran\kelas 11\KK3\kalkulator_tegar\kalkulator_tegar\bin\Debug\kalkulator_tegar.exe.config
+E:\2\pelajaran\kelas 11\KK3\kalkulator_tegar\kalkulator_tegar\bin\Debug\kalkulator_tegar.exe
+E:\2\pelajaran\kelas 11\KK3\kalkulator_tegar\kalkulator_tegar\bin\Debug\kalkulator_tegar.pdb
+E:\2\pelajaran\kelas 11\KK3\kalkulator_tegar\kalkulator_tegar\obj\Debug\kalkulator_tegar.csprojAssemblyReference.cache
+E:\2\pelajaran\kelas 11\KK3\kalkulator_tegar\kalkulator_tegar\obj\Debug\kalkulator_tegar.Form1.resources
+E:\2\pelajaran\kelas 11\KK3\kalkulator_tegar\kalkulator_tegar\obj\Debug\kalkulator_tegar.Properties.Resources.resources
+E:\2\pelajaran\kelas 11\KK3\kalkulator_tegar\kalkulator_tegar\obj\Debug\kalkulator_tegar.csproj.GenerateResource.cache
+E:\2\pelajaran\kelas 11\KK3\kalkulator_tegar\kalkulator_tegar\obj\Debug\kalkulator_tegar.csproj.CoreCompileInputs.cache
+E:\2\pelajaran\kelas 11\KK3\kalkulator_tegar\kalkulator_tegar\obj\Debug\kalkulator_tegar.exe
+E:\2\pelajaran\kelas 11\KK3\kalkulator_tegar\kalkulator_tegar\obj\Debug\kalkulator_tegar.pdb
